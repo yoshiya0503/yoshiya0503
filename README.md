@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[![Ruki's github stats](https://github-readme-stats.vercel.app/api?username=yoshiya0503&count_private=true&show_icons=true)](https://github.com/yoshiya0503)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiya0503&hide=php)](https://github.com/yoshiya0503)
-
 <!--
 **yoshiya0503/yoshiya0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+- 🔭 I’m currently working on funnyface,Inc. freelance programmer
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: plz contact @twitter
+- 😄 Pronouns: https://www.youtube.com/channel/UCLJ-7G5utPJLHZht2BLuTLQ
+- ⚡ Fun fact: 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiya0503&hide=html)
+![ruki's github stats](https://github-readme-stats.vercel.app/api?username=yoshiya0503&show_icons=true&count_private=true&line_height=40)
