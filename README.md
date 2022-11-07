@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Ruki's github stats](https://github-readme-stats.vercel.app/api?username=yoshiya0503&count_private=true&show_icons=true)](https://github.com/yoshiya0503)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiya0503&hide=php)](https://github.com/yoshiya0503)
+
 <!--
 **yoshiya0503/yoshiya0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
